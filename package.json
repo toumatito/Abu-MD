@@ -1,7 +1,7 @@
 {
-   "name": "Abu-MD",
+   "name": "𝐓𝐨𝐮𝐦𝐚𝐭𝐢𝐭𝐨-bot",
    "version": "2.0.1",
-   "description": "Abu-MD - Simple whatsapp Bot",
+   "description": "Bot de tomi",
    "main": "./index.js",
    "scripts": {
     "start": "supervisor -s index.js"
